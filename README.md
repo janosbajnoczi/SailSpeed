@@ -1,0 +1,2 @@
+# SailSpeed
+App for sailing
